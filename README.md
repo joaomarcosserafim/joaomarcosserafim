@@ -1,8 +1,4 @@
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/133900834?v=4" alt="Foto de João Marcos" width="150" style="border-radius:50%; border: 2px solid #ffffff">
-</p>
-
 
 # 👨‍💻 João Marcos Sales de Souza Serafim
 **Desenvolvedor Full Stack (Foco em Backend) | Entusiasta de Cibersegurança**
